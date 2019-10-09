@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/micuenta"
+        android:title="Mi cuenta"
+        android:icon="@drawable/ic_bar_cuenta"/>
+
+    <item
+        android:id="@+id/mimascota"
+        android:title="My Pet"
+        android:icon="@drawable/ic_bar_pet"/>
+
+    <item
+        android:id="@+id/principal"
+        android:title="Principal"
+        android:icon="@drawable/ic_bar_home"/>
+
+    <item
+        android:id="@+id/reportes"
+    android:title="Reportes"
+    android:icon="@drawable/ic_bar_report"/>
+
+    <item
+        android:id="@+id/localizacion"
+        android:title="Localización"
+        android:icon="@drawable/ic_bar_find"/>
+
+</menu>
