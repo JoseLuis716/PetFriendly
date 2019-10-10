@@ -78,5 +78,7 @@ public class LocalizacionFragment extends Fragment implements OnMapReadyCallback
         mMap.addMarker(new MarkerOptions().position(punto1).title("VETERINARIA LAIKA"));
         final LatLng punto2 = new LatLng(21.2822562,-89.6640721);
         mMap.addMarker(new MarkerOptions().position(punto2).title("VETERINARIA AKITA-NIU"));
+        final LatLng punto3 = new LatLng(21.2930602,-89.6123201);
+        mMap.addMarker(new MarkerOptions().position(punto3).title("VETERINARIA IRABIEN"));
     }
 }
